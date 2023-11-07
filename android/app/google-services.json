@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "441949629853",
+    "project_id": "pushnoti-flutterexample",
+    "storage_bucket": "pushnoti-flutterexample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441949629853:android:881fd54aaba66251959374",
+        "android_client_info": {
+          "package_name": "com.example.pushnoti_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtJtKjkw8B56VQ_UnWnpxw2x0509bP0Bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
