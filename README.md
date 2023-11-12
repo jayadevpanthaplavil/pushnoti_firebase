@@ -4,7 +4,13 @@ This Flutter project demonstrates the implementation of push notifications using
 
 ## Screenshots
 
-![pushnoti3](https://github.com/jayadevpanthaplavil/pushnoti_firebase/assets/123856291/1d1bcee8-a298-4813-810e-6be953934d13) 
+| Home Page | Notification Handling | Demo |
+|-----------|-----------|-----------|
+|<img src="https://github.com/jayadevpanthaplavil/pushnoti_firebase/assets/123856291/1d1bcee8-a298-4813-810e-6be953934d13" width="250" />|<img src="https://github.com/jayadevpanthaplavil/pushnoti_firebase/assets/123856291/16f92700-e569-40a3-97f2-31c010112640" width="250" />|<img src="https://github.com/jayadevpanthaplavil/pushnoti_firebase/assets/123856291/e4bf97d4-8d02-4ab7-a504-51d7860062ea" width="250" />|
+
+
+
+
 
 
 ## What's inside
